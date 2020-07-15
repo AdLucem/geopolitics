@@ -1,12 +1,14 @@
 # The Present and Future of the India-US Relationship
 
-Synergia Foundation
+Organizer: Synergia Foundation
+
+[Link to the publicly-available talk is here](https://www.facebook.com/SynergiaFoundation/videos/289697385717623/)
 
 Panelists:
 
-* Richard Fontaine: CEO, Centre for a New American Security
-* [Richard RahulVerma, former US Ambassador to India](https://en.wikipedia.org/wiki/Richard_Verma)
-* Navtej Sarna, former US Ambassador to India
+* [Richard Fontaine: CEO, Centre for a New American Security](https://www.cnas.org/people/richard-fontaine)
+* [Richard Rahul Verma, former US Ambassador to India](https://en.wikipedia.org/wiki/Richard_Verma)
+* [Navtej Sarna, former US Ambassador to India](https://en.wikipedia.org/wiki/Navtej_Sarna)
 
 ## Talk Notes
 
@@ -17,64 +19,64 @@ These notes are taken from the talk. Notes are not exhaustive- only broad points
 ### Q: Future of the US-India relationship in a pandemic world?
 
 * Richard Verma
-	** 2-decade upward trajectory of the US-India relationship, prediction is both linear and upward
-	** Historical perspective- US-India relationship was estranged in the Johnson-Nixon era, but Kennedy and Eisenhower were pro-relationship
-	** Eisenhower: "The hinge of fate in Asia rests with India". 
-	** Also US perspective: that we should strive for an equal nation for people of the world... or something 
-	** Questioned: are recent moves by Trump (withdrawing from WHO, visa issues etc) really dovetailing with Kennedy's vision of people equality w.r.t US-India ties?
+	* 2-decade upward trajectory of the US-India relationship, prediction is both linear and upward
+	* Historical perspective- US-India relationship was estranged in the Johnson-Nixon era, but Kennedy and Eisenhower were pro-relationship
+	* Eisenhower: "The hinge of fate in Asia rests with India". 
+	* Also US perspective: that we should strive for an equal nation for people of the world... or something 
+	* Questioned: are recent moves by Trump (withdrawing from WHO, visa issues etc) really dovetailing with Kennedy's vision of people equality w.r.t US-India ties?
 
 * Navtej Sarna
-	** Pandemic made us forget that there was solid progress made during the Trump-Modi visit
-	** Around '92- US changed perspective on India and grew warmer to the idea of a relationship
-	** Prediction: after the end of the pandemic, no matter the results of the election, US will recognize the logic of relationship with India
-		*** Specific areas of co-coperation may change, but relationship will stay solid
+	* Pandemic made us forget that there was solid progress made during the Trump-Modi visit
+	* Around '92- US changed perspective on India and grew warmer to the idea of a relationship
+	* Prediction: after the end of the pandemic, no matter the results of the election, US will recognize the logic of relationship with India
+		* Specific areas of co-coperation may change, but relationship will stay solid
 
 * Richard Fontaine
-	** India is the only bright spot in Trump's foreign policy
-	** Focus on the US-India relationship has been sustained across multiple administrations both in the US and India
-	** China-India standoff is an opportunity for the two countries to come closer
+	* India is the only bright spot in Trump's foreign policy
+	* Focus on the US-India relationship has been sustained across multiple administrations both in the US and India
+	* China-India standoff is an opportunity for the two countries to come closer
 
 ### Q: US stature as world leader seems to be threatened. Would this be a factor in the future US-India relationship?
 
 * Richard Fontaine
-	** Every time people- mostly Americans who seem to hold this opinion- thought that US's world leader role is threatened, US has bounced back
-	** tl;dr: no
+	* Every time people- mostly Americans who seem to hold this opinion- thought that US's world leader role is threatened, US has bounced back
+	* tl;dr: no
 
 * Richard Verma
-	** Not worried about decline of the US
-	** US people are war-weary, but still want to play a role 
+	* Not worried about decline of the US
+	* US people are war-weary, but still want to play a role 
 	in international affairs
-	** Perhaps the greatest threat to the liberal postwar order is the US and it's breaking of institutions. This was not predicted, and needs to be corrected.
-	** Remember that US-India relationship is based on the following shared ideas:
-		*** Social justice
-		*** Democracy
-		*** Strategic interests
-	** Wants to see us do more things operationally with the US, apart from just military exercises: disaster response, work together on development of other nations, clean energy partnership
+	* Perhaps the greatest threat to the liberal postwar order is the US and it's breaking of institutions. This was not predicted, and needs to be corrected.
+	* Remember that US-India relationship is based on the following shared ideas:
+		* Social justice
+		* Democracy
+		* Strategic interests
+	* Wants to see us do more things operationally with the US, apart from just military exercises: disaster response, work together on development of other nations, clean energy partnership
 
 * Navtej Sarna
-	** If the US withdraws from the global stage then parters will be even more important for the US (why?)
-	** Talking about divergences and confluences between US-India:
-		*** Trump puts an undue focus on issues like trade inequalities, etc in his foreign policy. US relationship with India has always been unequal, but that is 'budgeted for' in the relationship
-		*** Trump's admin focuses on the issue of immigration, and this __will__ be an issue in the future, particularly with Americans unemployed due to the pandemic- so yeah, factor for it in the future of this relationship
-	** India needs to ask- is US cognizant of Indian interests in its dealings with __other__ countries?
+	* If the US withdraws from the global stage then parters will be even more important for the US (why?)
+	* Talking about divergences and confluences between US-India:
+		* Trump puts an undue focus on issues like trade inequalities, etc in his foreign policy. US relationship with India has always been unequal, but that is 'budgeted for' in the relationship
+		* Trump's admin focuses on the issue of immigration, and this __will__ be an issue in the future, particularly with Americans unemployed due to the pandemic- so yeah, factor for it in the future of this relationship
+	* India needs to ask- is US cognizant of Indian interests in its dealings with __other__ countries?
 
 ### How will the India-China clash affect the US-India relationship
 
 * Navtej Sarna
-	** Yes, India is very upset about china, and will probably stay so
-	** But US co-operation should not be simply military, but also economic, social and other areas
-		*** Suggestion: pharmaceutical, India is a major supplier of generic drugs
+	* Yes, India is very upset about china, and will probably stay so
+	* But US co-operation should not be simply military, but also economic, social and other areas
+		* Suggestion: pharmaceutical, India is a major supplier of generic drugs
 
 * Richard Fontaine
-	** US foreign policy should not assume that US and India will form an alliance against China
-	** Strong economic relations with China from both countries will prevent a repeat of cold-war style blocs
-	** US is not actually going to economically decouple from China, and neither is India (but!!! look at the actions of tech companies decoupling??? look it up)
+	* US foreign policy should not assume that US and India will form an alliance against China
+	* Strong economic relations with China from both countries will prevent a repeat of cold-war style blocs
+	* US is not actually going to economically decouple from China, and neither is India (but!!! look at the actions of tech companies decoupling??? look it up)
 
 ### Will the pandemic and recession promote an isolationist tendency among countries?
 
 * Richard Verma
-	** Countries need to start working together TODAY to develop a global pandemic response that we do not have as of yet
-	** Future also holds transnational challenges- eg: global warming- and US-India relationship is a good starting point to talk about these (but? given that the US is doing a reversal on international cooperation re: global warming- pulling out of the Kyoto agreement)
+	* Countries need to start working together TODAY to develop a global pandemic response that we do not have as of yet
+	* Future also holds transnational challenges- eg: global warming- and US-India relationship is a good starting point to talk about these (but? given that the US is doing a reversal on international cooperation re: global warming- pulling out of the Kyoto agreement)
 
 ### Audience Comment: Salil Gupta, Boeing
 
@@ -93,7 +95,7 @@ Question: Will US actually look to India for restructuring supply chains previou
 
 Richard Fontaine:
 * Companies are always rethinking supply chains in China
-	** Because of a shifted perception of political and policy risk
+	* Because of a shifted perception of political and policy risk
 * Places like India, bangladesh etc. can pick up these supply chains (yes, underpaid overexploited labour for the win!)
 * However, there will be limits to this kind of restructuring- full decoupling is economically undesirable and unrealistic
 
